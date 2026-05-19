@@ -18,7 +18,7 @@
 
 ---
 
-# 🌸 About Me
+#  About Me
 
 <img align="right" width="220" src="https://s1.aigei.com/src/img/gif/87/874bdcd8d6484855b713bb7d427617fa.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:sqjFZrFEhoCQ9o-WLGiVT71CpwM="/>
 
@@ -43,10 +43,11 @@ Dream:
   - Keep learning new things 🌱
 
 Interests:
-  - Anime 🌸
-  - AI 🤖
-  - Technology 💻
-  - Coding ✨
+  - Anime
+  - AI
+  - Technology
+  - Coding
+  - drawing 
 ```
 
 > 🌙 A learner exploring the world between  
@@ -87,7 +88,7 @@ Interests:
 ---
 
 
-# 🌸 Featured Projects
+#  Featured Projects
 
 ```txt
 ✨ Coming Soon...
@@ -95,7 +96,7 @@ Currently building cool things 🌱
 ```
 
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
